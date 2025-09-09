@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Abdul-Wahab-8330
-- 👀 I’m interested in full-stack Development.
-- 🌱 I’m currently learning Advanced Programming Skills based on the requirements of the modern era.
-- 💞️ Always open to collaborating on exciting projects! Feel free to reach out if you have an interesting idea or need a hand with full-stack development.
-- 📫 How to reach me - E-mail : abdulwahabee5@gmail.com
-- 🌏 Portfolio: [abdul-wahab-web-pf.vercel.app](https://abdul-wahab-web-pf.vercel.app/)
-- ⚡ Fun fact: Did you know that GitHub's mascot, the Octocat, has a name? The character is named "Monalisa." The Octocat was created by graphic designer Simon Oxley and has since become an iconic symbol of the GitHub community.
+👋 Hi, I’m **Abdul Wahab**
+🎓 Computer Science Student & Aspiring **Full-Stack Developer**
+💻 Skilled in MERN Stack (MongoDB, Express, React, Node.js)
+🛠️ Passionate about building modern, user-friendly, and scalable web applications
+🚀 Open to collaborating on exciting projects — especially in web apps, backend systems, and creative ideas
+📚 Always learning advanced programming skills to stay aligned with the modern tech world
 
-<!---
-Abdul-Wahab-8330/Abdul-Wahab-8330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌏 Portfolio: abdul-wahab-web-pf.vercel.app
+💼 LinkedIn: linkedin.com/in/abdul-wahab-295962323
+📫 Reach me at: abdulwahabee5@gmail.com
+⚡ Fun fact: The GitHub Octocat’s name is Monalisa 🐙✨
+
+🛠️ Tech Stack
+Frontend: React, Vite, Tailwind CSS, Shadcn, Framer Motion
+Backend: Node.js, Express.js
+Database: MongoDB
+Other: JWT, bcrypt, REST APIs, Git/GitHub
+
+📊 Current Focus
+Building scalable full-stack applications
+Improving backend & database design
+Exploring team collaboration using GitHub Projects & Issues
